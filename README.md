@@ -1,92 +1,191 @@
-<h1 align="center">Hi 👋, I'm Nahom</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer | Laravel & React</h3>
+# 👋 Hi, I'm Nahom Zewdu
+
+### Full-Stack Developer • Laravel • React • REST APIs
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%2B+React+Developer;Building+Real-World+Web+Applications;Always+Learning+Something+New" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nahomiscool&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+<a href="https://github.com/nahomiscool?tab=followers">
+<img src="https://img.shields.io/github/followers/nahomiscool?label=Followers&style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const nahom = {
+    role: "Full-Stack Developer",
+    currentProject: "Demurrage Management System",
+
+    frontend: [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+    ],
+
+    backend: [
+        "Laravel",
+        "PHP",
+        "REST APIs"
+    ],
+
+    database: [
+        "MySQL"
+    ],
+
+    currentlyLearning: [
+        "Laravel",
+        "React",
+        "REST API Development"
+    ],
+
+    goal: "Build useful, scalable and modern web applications"
+};
+```
+
+* 🔭 Currently building **[Demurrage Management System](https://github.com/nahomiscool/demurrage-management-system)**
+* 🌱 Learning more about **Laravel, React & REST APIs**
+* 💻 Interested in **full-stack web development**
+* 🎓 Computer Science student
+* 📫 Contact me at **[itsmenahomzewdu@gmail.com](mailto:itsmenahomzewdu@gmail.com)**
+* 📂 Explore my projects on **[GitHub](https://github.com/nahomiscool)**
+* 📄 View my **[Resume](https://github.com/nahomiscool/Resume)**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nahom-zewdu-295704332/">
+<img src="https://img.shields.io/badge/LinkedIn-Nahom%20Zewdu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:itsmenahomzewdu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nahomiscool">
+<img src="https://img.shields.io/badge/GitHub-nahomiscool-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+### 🎨 Frontend
 
 <p align="center">
-  <a href="https://github.com/nahomiscool">
-    <img src="https://komarev.com/ghpvc/?username=nahomiscool&label=Profile%20views&color=0e75b6&style=flat" alt="nahomiscool" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+
+</p>
+
+### 🗄️ Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+### 🔧 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,figma" />
+
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 🚢 Featured Project
 
-* 🔭 I'm currently working on **[Demurrage Management System](https://github.com/nahomiscool/demurrage-management-system)**
-* 🌱 I'm currently learning **Laravel, React, REST APIs, and full-stack development**
-* 💻 I enjoy building **web applications and solving problems with code**
-* 🎓 Computer Science student
-* 📂 All of my projects are available on **[GitHub](https://github.com/nahomiscool)**
-* 📄 Check out my **[Resume](https://github.com/nahomiscool/Resume)**
-* 📫 Reach me at **[itsmenahomzewdu@gmail.com](mailto:itsmenahomzewdu@gmail.com)**
+<div align="center">
 
-### 🤝 Connect with Me
+## Demurrage Management System
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nahom-zewdu-295704332/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nahom Zewdu LinkedIn" height="30" width="40" />
-  </a>
-</p>
+A full-stack web application designed to manage containers, calculate demurrage charges, track container status, and simplify demurrage operations.
 
-### 🛠️ Languages and Tools
+### Built With
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,react,mysql,php,js,css" />
+
+<br/><br/>
+
+<a href="https://github.com/nahomiscool/demurrage-management-system">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahomiscool&show_icons=true&locale=en&layout=compact" alt="Nahom's Top Languages" />
-</p>
+<div align="center">
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahomiscool&show_icons=true&locale=en" alt="Nahom's GitHub Stats" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nahomiscool&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahomiscool" alt="Nahom's GitHub Streak" />
-</p>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahomiscool&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahomiscool&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nahomiscool&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahomiscool&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Improve."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
+</div>
