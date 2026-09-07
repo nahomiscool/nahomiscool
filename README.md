@@ -58,7 +58,7 @@ const nahom = {
 * 🎓 Computer Science student
 * 📫 Contact me at **[itsmenahomzewdu@gmail.com](mailto:itsmenahomzewdu@gmail.com)**
 * 📂 Explore my projects on **[GitHub](https://github.com/nahomiscool)**
-* 📄 View my **[Resume]([https://github.com/nahomiscool/Resume](https://nahomiscool.github.io/Resume/Nahom%20Zewdu%20%E2%80%94%20R%C3%A9sum%C3%A9%20(1).pdf))**
+* 📄 View my **[Resume]([https://nahomiscool.github.io/Resume/Nahom%20Zewdu%20%E2%80%94%20R%C3%A9sum%C3%A9%20(1).pdf])**
 
 ---
 
