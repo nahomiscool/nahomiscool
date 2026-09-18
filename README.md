@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nahom Zewdu
 
-### Full-Stack Developer • Laravel • React • REST APIs
+### Full-Stack Developer • Laravel  • React • REST APIs
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%2B+React+Developer;Building+Real-World+Web+Applications;Always+Learning+Something+New" alt="Typing SVG" />
 
